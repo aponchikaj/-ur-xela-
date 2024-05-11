@@ -19,3 +19,7 @@
     font-family: 'Nightshade';
     src: url(./assets/fonts/JimNightshade-Regular.ttf);
 }
+
+*{
+    scroll-behavior: smooth;
+}
