@@ -1,1 +1,21 @@
-/* You can add global styles to this file, and also import other style files */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'Arabic';
+    src: url(./assets/fonts/NotoSansArabic-VariableFont_wdth\,wght.ttf);
+}
+@font-face {
+    font-family: 'Aclonica';
+    src: url(./assets/fonts/Aclonica-Regular.ttf);
+}
+@font-face {
+    font-family: 'Inika';
+    src: url(./assets/fonts/Inika-Regular.ttf);
+}
+@font-face {
+    font-family: 'Nightshade';
+    src: url(./assets/fonts/JimNightshade-Regular.ttf);
+}
